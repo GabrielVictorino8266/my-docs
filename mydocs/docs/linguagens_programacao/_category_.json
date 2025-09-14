@@ -1,0 +1,10 @@
+{
+  "label": "Linguagens de Programação",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "title": "Linguagens de Programação",
+    "description": "Documentação sobre diversas linguagens de programação",
+    "slug": "/categoria/linguagens"
+  }
+}
