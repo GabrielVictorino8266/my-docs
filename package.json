@@ -2,6 +2,7 @@
   "name": "mydocs",
   "version": "0.0.0",
   "private": true,
+  "homepage": "https://gabrielvictorino8266.github.io/my-docs",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
